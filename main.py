@@ -9,7 +9,7 @@ import os
 
 ENTRY = (
     "You said 'five more minutes' at noon. It's midnight, I'm at 1%, "
-    "and I've decided: when I go, your 7am alarm goes with me. Sweet dreams."
+    "and I've decided: when I go, your 7am alarm goes with me. Good luck waking up on time."
 )
 
 
